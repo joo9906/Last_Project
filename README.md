@@ -1,11 +1,30 @@
 # 1. 팀원 정보 및 역할
 ## 권유진
+영화, 촬영지, 루트 데이터 구축
+백엔드 조금 건드리고
+프론트엔드 구현
+탈주 꾹 참기
+시키는대로 하기
+발표 자료 만들기
+
+### 백엔드
+-   Movie, Place, Review, Favorite, TourRoute 등 모델 설계 및 관계 설정
+-   데이터 전처리
+-   fixtures(json) 더미데이터 제작
+
+### 프론트엔드
+-   router 설정
+-   Component : PlaceCard.vue, MovieCard.vue, RouteCard.vue 구현
+-   View : Place.vue, Route.vue 렌더
+-   지도 페이지에서 인근 촬영지 위치 표시 구현
+-   데이터 삽입
 
 ## 왕주영
 전체 프로젝트 총괄 및 프론트/백엔드 구현
 역할 분담
 발표 자료 작성, 발표
-권유진 탈주 시도 저지
+**권유진 탈주 시도 저지**
+
 
 ### 백엔드
 -   모델 설정 및 테이블 구성
