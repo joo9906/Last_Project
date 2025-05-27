@@ -1,0 +1,176 @@
+[
+  {
+    "title": "기생충",
+    "genre": "drama",
+    "release_year": 2019,
+    "description": "빈부격차를 그린 블랙코미디",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mSi0gskYpmf1FbXngM37s2HppXh.jpg",
+    "places": [
+      {
+        "name": "자하문 터널 계단",
+        "type": "filming_location",
+        "address": "서울 종로구 자하문로 125",
+        "latitude": 37.5842,
+        "longitude": 126.9711,
+        "description": "기택 가족이 언덕 내려오는 장면",
+        "image": "/images/parasite.png"
+      }
+    ]
+  },
+  {
+    "title": "극한직업",
+    "genre": "comedy",
+    "release_year": 2019,
+    "description": "형사들의 닭장사 잠입 수사",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jbHNkNydiZstlqhhBSvG19lm4NL.jpg",
+    "places": [
+      {
+        "name": "수원 왕갈비통닭집",
+        "type": "restaurant",
+        "address": "경기 수원시 팔달구 팔달로3가 98-3",
+        "latitude": 37.2795,
+        "longitude": 127.0162,
+        "description": "영화의 치킨집 촬영지",
+        "image": "/images/extremejob.png"
+      }
+    ]
+  },
+  {
+    "title": "명량",
+    "genre": "historical",
+    "release_year": 2014,
+    "description": "이순신 장군의 명량해전",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fl3G8TprVzt4icbYyQKqdPmUfIO.jpg",
+    "places": [
+      {
+        "name": "진도 울돌목",
+        "type": "filming_location",
+        "address": "전남 진도군 고군면",
+        "latitude": 34.5011,
+        "longitude": 126.3176,
+        "description": "해전 실제 촬영지",
+        "image": "/images/myung.png"
+      }
+    ]
+  },
+  {
+    "title": "암살",
+    "genre": "action",
+    "release_year": 2015,
+    "description": "일제강점기 저항군들의 이야기",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2gAym5Oig2NM7k6iu0DwXlxYaGY.jpg",
+    "places": [
+      {
+        "name": "합천 영상테마파크",
+        "type": "filming_location",
+        "address": "경상남도 합천군 용주면 합천호수로 757",
+        "latitude": 37.4743,
+        "longitude": 126.6169,
+        "description": "카와구치 대위 총살 장면",
+        "image": "/images/assasination.png"
+      }
+    ]
+  },
+  {
+    "title": "범죄도시",
+    "genre": "crime",
+    "release_year": 2017,
+    "description": "형사 마석도와 조직범죄",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ayk6y2D5v5VACFqrPfF05MARZ9n.jpg",
+    "places": [
+      {
+        "name": "가리봉동 일대",
+        "type": "filming_location",
+        "address": "서울 구로구 가리봉동",
+        "latitude": 37.4929,
+        "longitude": 126.8891,
+        "description": "주요 액션 장면"
+      }
+    ]
+  },
+  {
+    "title": "택시운전사",
+    "genre": "drama",
+    "release_year": 2017,
+    "description": "광주 민주화운동 보도 이야기",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pCdx7X5JLaSJZLNVtpryGSdjvvB.jpg",
+    "places": [
+      {
+        "name": "광주 금남로",
+        "type": "filming_location",
+        "address": "광주 동구 금남로",
+        "latitude": 35.1486,
+        "longitude": 126.9191,
+        "description": "시위 촬영 장면"
+      }
+    ]
+  },
+  {
+    "title": "도둑들",
+    "genre": "action",
+    "release_year": 2012,
+    "description": "한국판 오션스 일레븐",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ujIHEzt2EEboVzjQoWZBMYdAt1v.jpg",
+    "places": [
+      {
+        "name": "마카오 베네시안 호텔",
+        "type": "filming_location",
+        "address": "Macau",
+        "latitude": 22.1475,
+        "longitude": 113.5593,
+        "description": "도둑단의 카지노 장면"
+      }
+    ]
+  },
+  {
+    "title": "신과함께",
+    "genre": "fantasy",
+    "release_year": 2017,
+    "description": "저승에서 벌어지는 심판의 여정",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/z54zrEXAKd5u1SCPNOIAKgvGXte.jpg",
+    "places": [
+      {
+        "name": "충북 제천 동굴",
+        "type": "filming_location",
+        "address": "충북 제천시",
+        "latitude": 37.1322,
+        "longitude": 128.245,
+        "description": "저승 장면 촬영"
+      }
+    ]
+  },
+  {
+    "title": "부산행",
+    "genre": "horror",
+    "release_year": 2016,
+    "description": "좀비가 퍼진 열차",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yBQ6iBI7BcDWlgUzWzJNSvbWe8s.jpg",
+    "places": [
+      {
+        "name": "동대구역",
+        "type": "filming_location",
+        "address": "대구 동구",
+        "latitude": 35.8795,
+        "longitude": 128.6281,
+        "description": "좀비 열차 장면"
+      }
+    ]
+  },
+  {
+    "title": "건축학개론",
+    "genre": "romance",
+    "release_year": 2012,
+    "description": "첫사랑과 재회한 이야기",
+    "poster_url": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fxKyRHx54Vbiwk98fhFqTXu3e3w.jpg",
+    "places": [
+      {
+        "name": "서귀포 표선해변",
+        "type": "filming_location",
+        "address": "제주 서귀포시 표선면",
+        "latitude": 33.3249,
+        "longitude": 126.8377,
+        "description": "집 짓던 바닷가 장면"
+      }
+    ]
+  }
+]

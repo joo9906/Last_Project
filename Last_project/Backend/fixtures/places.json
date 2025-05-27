@@ -1,0 +1,991 @@
+    [
+    {
+        "model": "movies.place",
+        "pk": 1,
+        "fields": {
+        "name": "헤이리 예술마을",
+        "type": "filming_location",
+        "address": "경기도 파주시 탄현면 헤이리마을길",
+        "latitude": 37.8122,
+        "longitude": 126.6931,
+        "description": "영화 '버닝'에서 해미의 집이 위치한 예술마을.",
+        "image": "places/place1.jpg",
+        "movie": 1
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 2,
+        "fields": {
+        "name": "상암동 거리",
+        "type": "filming_location",
+        "address": "서울특별시 마포구 상암동",
+        "latitude": 37.5796,
+        "longitude": 126.8938,
+        "description": "영화 '버닝'에서 종수와 벤이 대화하는 장면이 촬영된 도심 거리.",
+        "image": "places/place2.jpg",
+        "movie": 1
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 3,
+        "fields": {
+        "name": "인천 차이나타운",
+        "type": "filming_location",
+        "address": "인천광역시 중구 차이나타운로",
+        "latitude": 37.4749,
+        "longitude": 126.6168,
+        "description": "영화 '올드보이'의 주요 복수 장면이 촬영된 장소.",
+        "image": "places/place3.jpg",
+        "movie": 2
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 4,
+        "fields": {
+        "name": "남산 타워 근처 골목",
+        "type": "filming_location",
+        "address": "서울특별시 용산구 남산공원길",
+        "latitude": 37.5509,
+        "longitude": 126.9907,
+        "description": "영화 '올드보이'에서 오대수의 혼란과 고통을 상징하는 배경.",
+        "image": "places/place4.jpg",
+        "movie": 2
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 5,
+        "fields": {
+        "name": "양평 세트장",
+        "type": "filming_location",
+        "address": "경기도 양평군",
+        "latitude": 37.4914,
+        "longitude": 127.4877,
+        "description": "영화 '아가씨' 저택 내부 및 정원 촬영지.",
+        "image": "places/place5.jpg",
+        "movie": 3
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 6,
+        "fields": {
+        "name": "북촌 한옥마을",
+        "type": "filming_location",
+        "address": "서울특별시 종로구 계동길",
+        "latitude": 37.5826,
+        "longitude": 126.9834,
+        "description": "영화 '아가씨'의 일부 외부 장면이 촬영된 전통 한옥 마을.",
+        "image": "places/place6.jpg",
+        "movie": 3
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 7,
+        "fields": {
+        "name": "영월역 폐역",
+        "type": "filming_location",
+        "address": "강원도 영월군 영월읍",
+        "latitude": 37.1848,
+        "longitude": 128.4697,
+        "description": "영화 '부산행'의 열차 탈출 장면에 등장한 폐역.",
+        "image": "places/place7.jpg",
+        "movie": 4
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 8,
+        "fields": {
+        "name": "대전역",
+        "type": "filming_location",
+        "address": "대전광역시 동구 중앙로 215",
+        "latitude": 36.3326,
+        "longitude": 127.4344,
+        "description": "영화 '부산행'에서 생존을 위한 긴박한 장면이 촬영된 역.",
+        "image": "places/place8.jpg",
+        "movie": 4
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 9,
+        "fields": {
+        "name": "문경새재 오픈세트장",
+        "type": "filming_location",
+        "address": "경상북도 문경시 문경읍 새재로 932",
+        "latitude": 36.6874,
+        "longitude": 128.1216,
+        "description": "영화 '안시성'의 성벽 및 전투 장면이 촬영된 웅장한 세트.",
+        "image": "places/place9.jpg",
+        "movie": 5
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 10,
+        "fields": {
+        "name": "고양시 오픈세트장",
+        "type": "filming_location",
+        "address": "경기도 고양시 일산서구 법곳길",
+        "latitude": 37.6767,
+        "longitude": 126.7378,
+        "description": "영화 '안시성'의 일부 전투 장면이 촬영된 고양시 오픈세트장.",
+        "image": "places/place10.jpg",
+        "movie": 5
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 11,
+        "fields": {
+        "name": "곡성군 가정리",
+        "type": "filming_location",
+        "address": "전라남도 곡성군 고달면 가정리",
+        "latitude": 35.2837,
+        "longitude": 127.2049,
+        "description": "영화 '곡성'의 마을 장면 대부분이 촬영된 실제 마을.",
+        "image": "places/place11.jpg",
+        "movie": 6
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 12,
+        "fields": {
+        "name": "장성 필암서원",
+        "type": "filming_location",
+        "address": "전라남도 장성군 황룡면 필암서원로 35",
+        "latitude": 35.3035,
+        "longitude": 126.7978,
+        "description": "영화 '곡성'에서 퇴마 장면 등 주요 장면이 촬영된 고즈넉한 서원.",
+        "image": "places/place12.jpg",
+        "movie": 6
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 13,
+        "fields": {
+        "name": "설악산 자락",
+        "type": "filming_location",
+        "address": "강원도 인제군 북면 설악로",
+        "latitude": 38.1538,
+        "longitude": 128.4653,
+        "description": "영화 '악마를 보았다'에서 잔혹한 살인 장면이 펼쳐지는 외진 산길.",
+        "image": "places/place13.jpg",
+        "movie": 7
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 14,
+        "fields": {
+        "name": "하남시 폐차장",
+        "type": "filming_location",
+        "address": "경기도 하남시 서하남로 인근",
+        "latitude": 37.5522,
+        "longitude": 127.2139,
+        "description": "영화 '악마를 보았다'에서 자동차 안 살인 장면이 찍힌 장소.",
+        "image": "places/place14.jpg",
+        "movie": 7
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 15,
+        "fields": {
+        "name": "화성시 제암리",
+        "type": "filming_location",
+        "address": "경기도 화성시 향남읍 제암리",
+        "latitude": 37.1339,
+        "longitude": 126.9078,
+        "description": "영화 '살인의 추억'의 범행 현장 및 논밭 장면 촬영지.",
+        "image": "places/place15.jpg",
+        "movie": 8
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 16,
+        "fields": {
+        "name": "봉담읍 경찰서 세트",
+        "type": "filming_location",
+        "address": "경기도 화성시 봉담읍",
+        "latitude": 37.2232,
+        "longitude": 126.9558,
+        "description": "영화 '살인의 추억'에서 형사들이 근무하던 경찰서가 설치된 곳.",
+        "image": "places/place16.jpg",
+        "movie": 8
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 17,
+        "fields": {
+        "name": "자하문 터널",
+        "type": "filming_location",
+        "address": "서울특별시 종로구 청운동",
+        "latitude": 37.5901,
+        "longitude": 126.9668,
+        "description": "영화 '기생충'에서 기택 가족이 비를 피해 내려오는 인상적인 장면 촬영지.",
+        "image": "places/place17.jpg",
+        "movie": 9
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 18,
+        "fields": {
+        "name": "기택네 집 세트장 (창신동)",
+        "type": "filming_location",
+        "address": "서울특별시 종로구 창신동",
+        "latitude": 37.5746,
+        "longitude": 127.0157,
+        "description": "영화 '기생충'에서 반지하 세트가 조성된 골목.",
+        "image": "places/place18.jpg",
+        "movie": 9
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 19,
+        "fields": {
+        "name": "인천 송도 국제도시",
+        "type": "filming_location",
+        "address": "인천광역시 연수구 송도동",
+        "latitude": 37.3796,
+        "longitude": 126.6431,
+        "description": "영화 '반도'의 좀비 습격 후 폐허가 된 도심 장면 촬영지.",
+        "image": "places/place19.jpg",
+        "movie": 10
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 20,
+        "fields": {
+        "name": "부산 감천문화마을",
+        "type": "filming_location",
+        "address": "부산광역시 사하구 감천로",
+        "latitude": 35.0975,
+        "longitude": 129.0101,
+        "description": "영화 '반도'에서 주인공이 가족을 찾는 장면이 촬영된 마을.",
+        "image": "places/place20.jpg",
+        "movie": 10
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 21,
+        "fields": {
+        "name": "안성목장 드라마 세트장",
+        "type": "filming_location",
+        "address": "경기도 안성시 공도읍 대신두길",
+        "latitude": 37.0062,
+        "longitude": 127.2135,
+        "description": "영화 '마녀'에서 주인공 자윤의 시골집 외부 장면이 촬영된 세트장.",
+        "image": "places/place21.jpg",
+        "movie": 11
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 22,
+        "fields": {
+        "name": "고양 킨텍스 주변",
+        "type": "filming_location",
+        "address": "경기도 고양시 일산서구 킨텍스로",
+        "latitude": 37.6684,
+        "longitude": 126.7452,
+        "description": "영화 '마녀'에서 액션 신 및 실험시설 외관 장면이 촬영된 곳.",
+        "image": "places/place22.jpg",
+        "movie": 11
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 23,
+        "fields": {
+        "name": "한강 망원 한강공원",
+        "type": "filming_location",
+        "address": "서울특별시 마포구 마포나루길 467",
+        "latitude": 37.5563,
+        "longitude": 126.9022,
+        "description": "영화 '괴물'에서 괴물이 처음 등장하는 명장면이 촬영된 장소.",
+        "image": "places/place23.jpg",
+        "movie": 12
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 24,
+        "fields": {
+        "name": "인천 송현동 폐창고",
+        "type": "filming_location",
+        "address": "인천광역시 중구 송현동",
+        "latitude": 37.4651,
+        "longitude": 126.6255,
+        "description": "영화 '괴물'에서 괴물이 숨는 장면이 촬영된 버려진 창고 지역.",
+        "image": "places/place24.jpg",
+        "movie": 12
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 25,
+        "fields": {
+        "name": "강릉 선교장",
+        "type": "filming_location",
+        "address": "강원도 강릉시 운정동 431",
+        "latitude": 37.7692,
+        "longitude": 128.8911,
+        "description": "영화 '박쥐'에서 고딕적 분위기의 외부 저택 장면 촬영지.",
+        "image": "places/place25.jpg",
+        "movie": 13
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 26,
+        "fields": {
+        "name": "양수리 수변공원",
+        "type": "filming_location",
+        "address": "경기도 양평군 양서면",
+        "latitude": 37.5412,
+        "longitude": 127.2887,
+        "description": "영화 '박쥐'의 감성적인 장면이 연출된 강변 촬영지.",
+        "image": "places/place26.jpg",
+        "movie": 13
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 27,
+        "fields": {
+        "name": "도쿄 구 일본대사관 저택 (세트)",
+        "type": "filming_location",
+        "address": "경상북도 문경시",
+        "latitude": 36.6874,
+        "longitude": 128.1216,
+        "description": "영화 '공작'에서 북한 고위층 접선 장면이 촬영된 공간.",
+        "image": "places/place27.jpg",
+        "movie": 14
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 28,
+        "fields": {
+        "name": "부산 자갈치시장",
+        "type": "filming_location",
+        "address": "부산광역시 중구 자갈치해안로",
+        "latitude": 35.0979,
+        "longitude": 129.0306,
+        "description": "영화 '공작'에서 주요 정보 교환이 이루어지던 장소.",
+        "image": "places/place28.jpg",
+        "movie": 14
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 29,
+        "fields": {
+        "name": "청송 주왕산 국립공원",
+        "type": "filming_location",
+        "address": "경상북도 청송군 부동면",
+        "latitude": 36.4335,
+        "longitude": 129.1663,
+        "description": "영화 '장화, 홍련'의 고딕적 저택 외부 분위기 연출을 위해 사용된 배경지.",
+        "image": "places/place29.jpg",
+        "movie": 15
+        }
+    },
+    {
+        "model": "movies.place",
+        "pk": 30,
+        "fields": {
+        "name": "파주 출판도시 주택 세트장",
+        "type": "filming_location",
+        "address": "경기도 파주시 문발로",
+        "latitude": 37.7121,
+        "longitude": 126.6865,
+        "description": "영화 '장화, 홍련'의 실내 장면들이 재현된 세트장.",
+        "image": "places/place30.jpg",
+        "movie": 15
+        }
+    },
+    {
+    "model": "movies.place",
+    "pk": 31,
+    "fields": {
+      "name": "광명동굴",
+      "type": "filming_location",
+      "address": "경기도 광명시 가학로85번길 142",
+      "latitude": 37.4472,
+      "longitude": 126.8647,
+      "description": "영화 '악녀'에서 극적인 액션 신이 펼쳐지는 장소.",
+      "image": "places/place31.jpg",
+      "movie": 16
+    }
+  },
+  {
+    "model": "movies.place",
+    "pk": 32,
+    "fields": {
+      "name": "인천 차이나타운 골목",
+      "type": "filming_location",
+      "address": "인천광역시 중구 차이나타운로",
+      "latitude": 37.4749,
+      "longitude": 126.6168,
+      "description": "영화 '악녀'의 도심 총격전 장면이 촬영된 거리.",
+      "image": "places/place32.jpg",
+      "movie": 16
+    }
+  },
+  {
+    "model": "movies.place",
+    "pk": 33,
+    "fields": {
+      "name": "서울역 근처 골목",
+      "type": "filming_location",
+      "address": "서울특별시 중구 봉래동1가",
+      "latitude": 37.5550,
+      "longitude": 126.9707,
+      "description": "영화 '아저씨'의 범죄 조직 추적 장면이 촬영된 골목.",
+      "image": "places/place33.jpg",
+      "movie": 17
+    }
+  },
+  {
+    "model": "movies.place",
+    "pk": 34,
+    "fields": {
+      "name": "충북 제천 폐공장",
+      "type": "filming_location",
+      "address": "충청북도 제천시",
+      "latitude": 37.1360,
+      "longitude": 128.2003,
+      "description": "영화 '아저씨'에서 인신매매 범들의 근거지로 등장한 장소.",
+      "image": "places/place34.jpg",
+      "movie": 17
+    }
+  },
+  {
+    "model": "movies.place",
+    "pk": 35,
+    "fields": {
+      "name": "제주 서귀포 천지연폭포 인근",
+      "type": "filming_location",
+      "address": "제주특별자치도 서귀포시 천지동",
+      "latitude": 33.2471,
+      "longitude": 126.5622,
+      "description": "영화 '리벤져'에서 섬 배경의 격투 장면이 촬영된 장소.",
+      "image": "places/place35.jpg",
+      "movie": 18
+    }
+  },
+  {
+    "model": "movies.place",
+    "pk": 36,
+    "fields": {
+      "name": "제주 함덕 해변 인근 세트장",
+      "type": "filming_location",
+      "address": "제주특별자치도 제주시 조천읍 함덕리",
+      "latitude": 33.5400,
+      "longitude": 126.6722,
+      "description": "영화 '리벤져'의 감옥섬 세트 일부가 조성된 해변 인근.",
+      "image": "places/place36.jpg",
+      "movie": 18
+    }
+  },
+  {
+    "model": "movies.place",
+    "pk": 37,
+    "fields": {
+      "name": "경남 합천 영상테마파크",
+      "type": "filming_location",
+      "address": "경상남도 합천군 용주면 황강로 757",
+      "latitude": 35.5664,
+      "longitude": 128.1723,
+      "description": "영화 '창궐'에서 조선시대 거리와 궁궐 장면이 촬영된 대표적인 세트장.",
+      "image": "places/place37.jpg",
+      "movie": 19
+    }
+  },
+  {
+    "model": "movies.place",
+    "pk": 38,
+    "fields": {
+      "name": "남한산성",
+      "type": "filming_location",
+      "address": "경기도 광주시 남한산성면",
+      "latitude": 37.4729,
+      "longitude": 127.1906,
+      "description": "영화 '창궐'에서 좀비가 공격해오는 성곽 전투 장면이 촬영된 장소.",
+      "image": "places/place38.jpg",
+      "movie": 19
+    }
+  },
+  {
+    "model": "movies.place",
+    "pk": 39,
+    "fields": {
+      "name": "서울 황학동 골목",
+      "type": "filming_location",
+      "address": "서울특별시 중구 황학동",
+      "latitude": 37.5671,
+      "longitude": 127.0157,
+      "description": "영화 '추격자'에서 실제 추격 장면이 벌어진 골목.",
+      "image": "places/place39.jpg",
+      "movie": 20
+    }
+  },
+  {
+    "model": "movies.place",
+    "pk": 40,
+    "fields": {
+      "name": "신당동 단칸방 주택가",
+      "type": "filming_location",
+      "address": "서울특별시 중구 신당동",
+      "latitude": 37.5648,
+      "longitude": 127.0156,
+      "description": "영화 '추격자'에서 범인이 숨어든 주택이 위치한 골목.",
+      "image": "places/place40.jpg",
+      "movie": 20
+    }
+  },
+    {
+    "model": "movies.movieplace",
+    "pk": 1,
+    "fields": {
+      "movie": 1,
+      "place": 1,
+      "scene_description": "영화 '버닝'에서 해미의 집이 위치한 예술마을."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 2,
+    "fields": {
+      "movie": 1,
+      "place": 2,
+      "scene_description": "영화 '버닝'에서 종수와 벤이 대화하는 장면이 촬영된 도심 거리."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 3,
+    "fields": {
+      "movie": 2,
+      "place": 3,
+      "scene_description": "영화 '올드보이'의 주요 복수 장면이 촬영된 장소."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 4,
+    "fields": {
+      "movie": 2,
+      "place": 4,
+      "scene_description": "영화 '올드보이'에서 오대수의 혼란과 고통을 상징하는 배경."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 5,
+    "fields": {
+      "movie": 3,
+      "place": 5,
+      "scene_description": "영화 '아가씨' 저택 내부 및 정원 촬영지."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 6,
+    "fields": {
+      "movie": 3,
+      "place": 6,
+      "scene_description": "영화 '아가씨'의 일부 외부 장면이 촬영된 전통 한옥 마을."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 7,
+    "fields": {
+      "movie": 4,
+      "place": 7,
+      "scene_description": "영화 '부산행'의 열차 탈출 장면에 등장한 폐역."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 8,
+    "fields": {
+      "movie": 4,
+      "place": 8,
+      "scene_description": "영화 '부산행'에서 생존을 위한 긴박한 장면이 촬영된 역."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 9,
+    "fields": {
+      "movie": 5,
+      "place": 9,
+      "scene_description": "영화 '안시성'의 성벽 및 전투 장면이 촬영된 웅장한 세트."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 10,
+    "fields": {
+      "movie": 5,
+      "place": 10,
+      "scene_description": "영화 '안시성'의 일부 전투 장면이 촬영된 고양시 오픈세트장."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 11,
+    "fields": {
+      "movie": 6,
+      "place": 11,
+      "scene_description": "영화 '곡성'의 마을 장면 대부분이 촬영된 실제 마을."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 12,
+    "fields": {
+      "movie": 6,
+      "place": 12,
+      "scene_description": "영화 '곡성'에서 퇴마 장면 등 주요 장면이 촬영된 고즈넉한 서원."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 13,
+    "fields": {
+      "movie": 7,
+      "place": 13,
+      "scene_description": "영화 '악마를 보았다'에서 잔혹한 살인 장면이 펼쳐지는 외진 산길."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 14,
+    "fields": {
+      "movie": 7,
+      "place": 14,
+      "scene_description": "영화 '악마를 보았다'에서 자동차 안 살인 장면이 찍힌 장소."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 15,
+    "fields": {
+      "movie": 8,
+      "place": 15,
+      "scene_description": "영화 '살인의 추억'의 범행 현장 및 논밭 장면 촬영지."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 16,
+    "fields": {
+      "movie": 8,
+      "place": 16,
+      "scene_description": "영화 '살인의 추억'에서 형사들이 근무하던 경찰서가 설치된 곳."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 17,
+    "fields": {
+      "movie": 9,
+      "place": 17,
+      "scene_description": "영화 '기생충'에서 기택 가족이 비를 피해 내려오는 인상적인 장면 촬영지."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 18,
+    "fields": {
+      "movie": 9,
+      "place": 18,
+      "scene_description": "영화 '기생충'에서 반지하 세트가 조성된 골목."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 19,
+    "fields": {
+      "movie": 10,
+      "place": 19,
+      "scene_description": "영화 '반도'의 좀비 습격 후 폐허가 된 도심 장면 촬영지."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 20,
+    "fields": {
+      "movie": 10,
+      "place": 20,
+      "scene_description": "영화 '반도'에서 주인공이 가족을 찾는 장면이 촬영된 마을."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 21,
+    "fields": {
+      "movie": 11,
+      "place": 21,
+      "scene_description": "영화 '마녀'에서 주인공 자윤의 시골집 외부 장면이 촬영된 세트장."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 22,
+    "fields": {
+      "movie": 11,
+      "place": 22,
+      "scene_description": "영화 '마녀'에서 액션 신 및 실험시설 외관 장면이 촬영된 곳."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 23,
+    "fields": {
+      "movie": 12,
+      "place": 23,
+      "scene_description": "영화 '괴물'에서 괴물이 처음 등장하는 명장면이 촬영된 장소."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 24,
+    "fields": {
+      "movie": 12,
+      "place": 24,
+      "scene_description": "영화 '괴물'에서 괴물이 숨는 장면이 촬영된 버려진 창고 지역."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 25,
+    "fields": {
+      "movie": 13,
+      "place": 25,
+      "scene_description": "영화 '박쥐'에서 고딕적 분위기의 외부 저택 장면 촬영지."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 26,
+    "fields": {
+      "movie": 13,
+      "place": 26,
+      "scene_description": "영화 '박쥐'의 감성적인 장면이 연출된 강변 촬영지."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 27,
+    "fields": {
+      "movie": 14,
+      "place": 27,
+      "scene_description": "영화 '공작'에서 북한 고위층 접선 장면이 촬영된 공간."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 28,
+    "fields": {
+      "movie": 14,
+      "place": 28,
+      "scene_description": "영화 '공작'에서 주요 정보 교환이 이루어지던 장소."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 29,
+    "fields": {
+      "movie": 15,
+      "place": 29,
+      "scene_description": "영화 '장화, 홍련'의 고딕적 저택 외부 분위기 연출을 위해 사용된 배경지."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 30,
+    "fields": {
+      "movie": 15,
+      "place": 30,
+      "scene_description": "영화 '장화, 홍련'의 실내 장면들이 재현된 세트장."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 31,
+    "fields": {
+      "movie": 16,
+      "place": 31,
+      "scene_description": "영화 '악녀'에서 극적인 액션 신이 펼쳐지는 장소."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 32,
+    "fields": {
+      "movie": 16,
+      "place": 32,
+      "scene_description": "영화 '악녀'의 도심 총격전 장면이 촬영된 거리."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 33,
+    "fields": {
+      "movie": 17,
+      "place": 33,
+      "scene_description": "영화 '아저씨'의 범죄 조직 추적 장면이 촬영된 골목."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 34,
+    "fields": {
+      "movie": 17,
+      "place": 34,
+      "scene_description": "영화 '아저씨'에서 인신매매 범들의 근거지로 등장한 장소."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 35,
+    "fields": {
+      "movie": 18,
+      "place": 35,
+      "scene_description": "영화 '리벤져'에서 섬 배경의 격투 장면이 촬영된 장소."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 36,
+    "fields": {
+      "movie": 18,
+      "place": 36,
+      "scene_description": "영화 '리벤져'의 감옥섬 세트 일부가 조성된 해변 인근."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 37,
+    "fields": {
+      "movie": 19,
+      "place": 37,
+      "scene_description": "영화 '창궐'에서 조선시대 거리와 궁궐 장면이 촬영된 대표적인 세트장."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 38,
+    "fields": {
+      "movie": 19,
+      "place": 38,
+      "scene_description": "영화 '창궐'에서 좀비가 공격해오는 성곽 전투 장면이 촬영된 장소."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 39,
+    "fields": {
+      "movie": 20,
+      "place": 39,
+      "scene_description": "영화 '추격자'에서 실제 추격 장면이 벌어진 골목."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 40,
+    "fields": {
+      "movie": 20,
+      "place": 40,
+      "scene_description": "영화 '추격자'에서 범인이 숨어든 주택이 위치한 골목."
+    }
+  },
+  {
+    "model": "movies.place",
+    "pk": 41,
+    "fields": {
+      "name": "경희궁",
+      "type": "filming_location",
+      "address": "서울특별시 종로구 새문안로 55",
+      "latitude": 37.5743,
+      "longitude": 126.9687,
+      "description": "광해군 시절 궁궐 내부 연회 장면 등이 촬영된 곳.",
+      "image": "places/place41.jpg",
+      "movie": 81
+    }
+  },
+  {
+    "model": "movies.place",
+    "pk": 42,
+    "fields": {
+      "name": "창경궁 명정전",
+      "type": "filming_location",
+      "address": "서울특별시 종로구 창경궁로 185",
+      "latitude": 37.5796,
+      "longitude": 126.9969,
+      "description": "왕실 회의 장면 및 대군 행차 장면이 촬영된 중앙 전각.",
+      "image": "places/place42.jpg",
+      "movie": 81
+    }
+  },
+  {
+    "model": "movies.place",
+    "pk": 43,
+    "fields": {
+      "name": "덕수궁 돌담길",
+      "type": "filming_location",
+      "address": "서울특별시 중구 세종대로 99",
+      "latitude": 37.5663,
+      "longitude": 126.9779,
+      "description": "광해가 대역과 처음 마주치는 극적인 장면이 촬영된 돌담길.",
+      "image": "places/place43.jpg",
+      "movie": 81
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 41,
+    "fields": {
+      "movie": 81,
+      "place": 41,
+      "scene_description": "왕실 연회 장면에서 광해 역을 수행하는 대역이 첫 등장하는 장면."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 42,
+    "fields": {
+      "movie": 81,
+      "place": 42,
+      "scene_description": "대신들과의 회의 장면이 펼쳐지는 창경궁 명정전 내부."
+    }
+  },
+  {
+    "model": "movies.movieplace",
+    "pk": 43,
+    "fields": {
+      "movie": 81,
+      "place": 43,
+      "scene_description": "왕과 가짜 왕(대역)이 돌담길에서 마주치는 극적 순간."
+    }
+  }
+]

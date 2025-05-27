@@ -1,0 +1,1298 @@
+[
+    {
+        "model": "movies.movie",
+        "pk": 1,
+        "fields": {
+            "title": "버닝",
+            "genre": "drama",
+            "director": "이창동",
+            "actors": "유아인, 스티븐 연, 전종서",
+            "runtime": 148,
+            "release_year": 2018,
+            "description": "종수는 어린 시절 동네 친구였던 해미를 우연히 다시 만나게 되고, 그녀의 부탁으로 고양이를 돌보게 된다. 아프리카 여행을 다녀온 해미는 그곳에서 만난 벤이라는 남자를 소개하고, 벤은 비밀스러운 취미를 고백한다.",
+            "poster": "posters/poster1.jpg",
+            "created_at": "2025-05-23T02:36:11.176890",
+            "score": 7.4
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 2,
+        "fields": {
+            "title": "올드보이",
+            "genre": "drama",
+            "director": "박찬욱",
+            "actors": "최민식, 유지태, 강혜정",
+            "runtime": 120,
+            "release_year": 2003,
+            "description": "15년간 이유 없이 감금되었던 오대수는 풀려난 후, 자신을 납치한 인물을 찾아 나서며 점차 충격적인 진실에 다가간다.",
+            "poster": "posters/poster2.jpg",
+            "created_at": "2025-05-23T02:36:11.176890",
+            "score": 8.3
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 3,
+        "fields": {
+            "title": "아가씨",
+            "genre": "drama",
+            "director": "박찬욱",
+            "actors": "김민희, 하정우, 조진웅",
+            "runtime": 145,
+            "release_year": 2016,
+            "description": "1930년대 식민지 조선, 한 소매치기가 일본 상속녀의 하녀로 위장하여 저택에 들어가고, 이들의 운명은 뒤엉켜 간다.",
+            "poster": "posters/poster3.jpg",
+            "created_at": "2025-05-23T02:36:11.176890",
+            "score": 8.1
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 4,
+        "fields": {
+            "title": "부산행",
+            "genre": "drama",
+            "director": "연상호",
+            "actors": "공유, 정유미, 마동석",
+            "runtime": 118,
+            "release_year": 2016,
+            "description": "좀비 바이러스가 퍼진 대한민국. 서울에서 부산으로 향하는 열차 안에서 승객들은 생존을 위해 사투를 벌인다.",
+            "poster": "posters/poster4.jpg",
+            "created_at": "2025-05-23T02:36:11.176890",
+            "score": 7.6
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 5,
+        "fields": {
+            "title": "안시성",
+            "genre": "historical",
+            "director": "김광식",
+            "actors": "조인성, 남주혁",
+            "runtime": 136,
+            "release_year": 2018,
+            "description": "고구려 안시성의 장군 양만춘은 50만 당나라 대군에 맞서 88일간의 치열한 전투를 이끈다.",
+            "poster": "posters/poster5.jpg",
+            "created_at": "2025-05-23T02:36:11.176890",
+            "score": 7.0
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 6,
+        "fields": {
+            "title": "곡성",
+            "genre": "thriller",
+            "director": "나홍진",
+            "actors": "쿠니무라 준, 황정민, 곽도원",
+            "runtime": 156,
+            "release_year": 2016,
+            "description": "낯선 외지인이 마을에 나타난 후 이상한 병이 퍼지기 시작하고, 경찰인 종구는 딸을 구하기 위해 사건의 실체를 파헤친다.",
+            "poster": "posters/poster6.jpg",
+            "created_at": "2025-05-23T02:37:56.347745",
+            "score": 7.4
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 7,
+        "fields": {
+            "title": "악마를 보았다",
+            "genre": "thriller",
+            "director": "김지운",
+            "actors": "이병헌, 최민식, 전국환",
+            "runtime": 144,
+            "release_year": 2010,
+            "description": "비밀 요원이 약혼녀를 죽인 연쇄살인마에게 잔혹한 복수를 감행한다.",
+            "poster": "posters/poster7.jpg",
+            "created_at": "2025-05-23T02:37:56.347757",
+            "score": 7.8
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 8,
+        "fields": {
+            "title": "살인의 추억",
+            "genre": "crime",
+            "director": "봉준호",
+            "actors": "송강호, 김상경, 김뢰하",
+            "runtime": 131,
+            "release_year": 2003,
+            "description": "1986년 화성 연쇄살인사건을 바탕으로, 두 형사가 미제 사건을 추적해가는 이야기.",
+            "poster": "posters/poster8.jpg",
+            "created_at": "2025-05-23T02:37:56.347761",
+            "score": 8.1
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 9,
+        "fields": {
+            "title": "기생충",
+            "genre": "drama",
+            "director": "봉준호",
+            "actors": "송강호, 이선균, 조여정",
+            "runtime": 132,
+            "release_year": 2019,
+            "description": "가난한 가족과 부유한 가족의 관계가 점점 뒤틀려가며 벌어지는 비극적인 이야기.",
+            "poster": "posters/poster9.jpg",
+            "created_at": "2025-05-23T02:37:56.347766",
+            "score": 8.5
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 10,
+        "fields": {
+            "title": "반도",
+            "genre": "action",
+            "director": "연상호",
+            "actors": "강동원, 쿠경표, 이하늬",
+            "runtime": 116,
+            "release_year": 2020,
+            "description": "좀비 바이러스가 확산된 4년 후, 돈을 찾기 위해 인천으로 돌아간 사람들이 생존을 위해 싸운다.",
+            "poster": "posters/poster10.jpg",
+            "created_at": "2025-05-23T02:37:56.347770",
+            "score": 5.5
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 11,
+        "fields": {
+            "title": "마녀",
+            "genre": "drama",
+            "director": "박훈정",
+            "actors": "김다미, 조민수, 최우식",
+            "runtime": 125,
+            "release_year": 2018,
+            "description": "기억을 잃은 고등학생 자윤은 가족을 위해 오디션에 나가며 일상이 흔들리기 시작하고, 의문의 인물들이 그녀의 앞에 나타난다.",
+            "poster": "posters/poster11.jpg",
+            "score": 7.1,
+            "created_at": "2025-05-23T02:43:59.381463"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 12,
+        "fields": {
+            "title": "괴물",
+            "genre": "drama",
+            "director": "봉준호",
+            "actors": "송강호, 변희봉, 박해일",
+            "runtime": 120,
+            "release_year": 2006,
+            "description": "서울 한강에 괴물이 나타나 사람들을 공격하고, 가족은 괴물에게 잡혀간 딸을 구하기 위해 고군분투한다.",
+            "poster": "posters/poster12.jpg",
+            "score": 7.1,
+            "created_at": "2025-05-23T02:43:59.381472"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 13,
+        "fields": {
+            "title": "박쥐",
+            "genre": "drama",
+            "director": "박찬욱",
+            "actors": "송강호, 김옥빈, 최희진",
+            "runtime": 134,
+            "release_year": 2009,
+            "description": "실패한 의학 실험으로 뱀파이어가 된 신부는 고행을 버리고 본능과 욕망 사이에서 갈등하게 된다.",
+            "poster": "posters/poster13.jpg",
+            "score": 7.1,
+            "created_at": "2025-05-23T02:43:59.381475"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 14,
+        "fields": {
+            "title": "공작",
+            "genre": "drama",
+            "director": "윤종빈",
+            "actors": "황정민, 이성민, 조진웅",
+            "runtime": 137,
+            "release_year": 2018,
+            "description": "1990년대 중반, 충성스러운 남한 스파이가 남북 권력의 음모 속에서 진실을 파헤친다.",
+            "poster": "posters/poster14.jpg",
+            "score": 7.3,
+            "created_at": "2025-05-23T02:43:59.381478"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 15,
+        "fields": {
+            "title": "장화, 홍련",
+            "genre": "horror",
+            "director": "김지운",
+            "actors": "임수정, 염정아, 김갑수",
+            "runtime": 114,
+            "release_year": 2003,
+            "description": "정신병원에서 퇴원한 수미는 동생과 함께 시골집으로 돌아오고, 그 집에는 설명할 수 없는 이상한 일들이 벌어진다.",
+            "poster": "posters/poster15.jpg",
+            "score": 7.1,
+            "created_at": "2025-05-23T02:43:59.381480"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 16,
+        "fields": {
+            "title": "악녀",
+            "genre": "action",
+            "director": "Jung Byung-gil",
+            "actors": "Kim Ok-bin, Shin Ha-kyun, Sung Jun",
+            "runtime": 124,
+            "release_year": 2017,
+            "description": "여자 암살자가 복수를 위해 살인을 거듭한다.",
+            "poster": "posters/poster16.jpg",
+            "created_at": "2025-05-23T02:49:09.919293",
+            "score": 6.6
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 17,
+        "fields": {
+            "title": "아저씨",
+            "genre": "action",
+            "director": "Lee Jeong-beom",
+            "actors": "Won Bin, Kim Sae-ron, Kim Tae-hoon",
+            "runtime": 119,
+            "release_year": 2010,
+            "description": "조용한 전당포 주인이 유일한 친구인 아이를 구하기 위해 과거의 폭력적인 모습을 되찾는다.",
+            "poster": "posters/poster17.jpg",
+            "created_at": "2025-05-23T02:49:09.919302",
+            "score": 7.7
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 18,
+        "fields": {
+            "title": "리벤져",
+            "genre": "action",
+            "director": "Lee Seung-won",
+            "actors": "Je-Heon Choi, Park Chul-min, Kim Dae-hyun",
+            "runtime": 101,
+            "release_year": 2018,
+            "description": "전직 경찰 수사관이 가족을 잔혹하게 살해한 자들에게 복수하기 위해 감옥섬으로 향한다.",
+            "poster": "posters/poster18.jpg",
+            "created_at": "2025-05-23T02:49:09.919305",
+            "score": 5.7
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 19,
+        "fields": {
+            "title": "창궐",
+            "genre": "fantasy",
+            "director": "Kim Sung-hoon",
+            "actors": "Hyun Bin, Lee Sun-bin, Seo Ji-hye",
+            "runtime": 121,
+            "release_year": 2018,
+            "description": "조선의 왕자 이청은 청나라에 인질로 잡혀 있다가 귀국해, 야귀와의 전투에 휘말린다.",
+            "poster": "posters/poster19.jpg",
+            "created_at": "2025-05-23T02:49:09.919308",
+            "score": 6.3
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 20,
+        "fields": {
+            "title": "추격자",
+            "genre": "thriller",
+            "director": "Na Hong-jin",
+            "actors": "Kim Yoon-seok, Ha Jung-woo, Seo Young-hee",
+            "runtime": 125,
+            "release_year": 2008,
+            "description": "불명예스럽게 경찰을 떠난 남성이 운영하던 성매매 조직의 여성 중 한 명이 실종되면서, 그는 시간을 다투는 추격전을 벌인다.",
+            "poster": "posters/poster20.jpg",
+            "created_at": "2025-05-23T02:49:09.919311",
+            "score": 7.8
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 21,
+        "fields": {
+            "title": "아일라",
+            "genre": "drama",
+            "director": "잔 울카이",
+            "actors": "체틴 테킨도르, 이스마일 하지오글루, 이경진",
+            "runtime": 125,
+            "release_year": 2017,
+            "description": "한국 전쟁 중 전장에서 소녀를 발견한 술레이만 하사는 그녀를 '아일라'라 이름 붙이고 데려간다. 15개월 후, 부대가 터키로 귀환하라는 명령을 받지만, 그는 그녀를 두고 가는 것이 망설여진다.",
+            "poster": "posters/poster21.jpg",
+            "score": 8.2,
+            "created_at": "2025-05-23T02:50:16.212840"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 22,
+        "fields": {
+            "title": "기억의 밤",
+            "genre": "thriller",
+            "director": "장항준",
+            "actors": "강하늘, 김무열, 문성근",
+            "runtime": 108,
+            "release_year": 2017,
+            "description": "21살 진석은 가족과 새 집으로 이사한다. 어느 날 눈앞에서 형이 납치당하고, 19일 후 형이 돌아오지만 진석은 형이 전혀 다른 사람처럼 느껴진다.",
+            "poster": "posters/poster22.jpg",
+            "score": 7.4,
+            "created_at": "2025-05-23T02:50:16.212849"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 23,
+        "fields": {
+            "title": "친절한 금자씨",
+            "genre": "crime",
+            "director": "박찬욱",
+            "actors": "이영애, 최민식, 권예영",
+            "runtime": 115,
+            "release_year": 2005,
+            "description": "13년간 억울하게 감옥에 갇히고 아이까지 빼앗긴 한 여성이 점점 잔혹해지는 방식으로 복수를 실행한다.",
+            "poster": "posters/poster23.jpg",
+            "score": 7.5,
+            "created_at": "2025-05-23T02:50:16.212852"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 24,
+        "fields": {
+            "title": "마더",
+            "genre": "drama",
+            "director": "봉준호",
+            "actors": "김혜자, 원빈, 진구",
+            "runtime": 129,
+            "release_year": 2009,
+            "description": "어머니는 아들이 소녀 살인범으로 누명 쓴 사건의 진실을 밝히기 위해 필사적으로 범인을 추적한다.",
+            "poster": "posters/poster24.jpg",
+            "score": 7.7,
+            "created_at": "2025-05-23T02:50:16.212855"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 25,
+        "fields": {
+            "title": "인랑",
+            "genre": "action",
+            "director": "김지운",
+            "actors": "강동원, 한효주, 정우성",
+            "runtime": 139,
+            "release_year": 2018,
+            "description": "가까운 미래, 남북이 통일 준비를 하는 가운데, 양측의 갈등이 격화되고, 이를 진압하기 위한 특수 경찰부대가 투입된다.",
+            "poster": "posters/poster25.jpg",
+            "score": 5.9,
+            "created_at": "2025-05-23T02:50:16.212857"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 26,
+        "fields": {
+            "title": "V.I.P.",
+            "genre": "thriller",
+            "director": "박훈정",
+            "actors": "장동건, 김명민, 이종석",
+            "runtime": 128,
+            "release_year": 2017,
+            "description": "북한 고위 관료의 아들이 전 세계에서 연쇄살인을 저지른 혐의를 받고 남한, 북한, 인터폴로부터 쫓기게 된다.",
+            "poster": "posters/poster26.jpg",
+            "score": 6.6,
+            "created_at": "2025-05-23T02:51:01.201432"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 27,
+        "fields": {
+            "title": "봄 여름 가을 겨울 그리고 봄",
+            "genre": "drama",
+            "director": "김기덕",
+            "actors": "김기덕, 오영수, 김종호",
+            "runtime": 103,
+            "release_year": 2003,
+            "description": "한국의 산속 자연 속에서, 불교 스승이 소년을 지혜와 자비로 가르치며 성장시키는 이야기.",
+            "poster": "posters/poster27.jpg",
+            "score": 8.0,
+            "created_at": "2025-05-23T02:51:01.201441"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 28,
+        "fields": {
+            "title": "복수는 나의 것",
+            "genre": "crime",
+            "director": "박찬욱",
+            "actors": "송강호, 신하균, 배두나",
+            "runtime": 129,
+            "release_year": 2002,
+            "description": "해고된 공장 노동자가 여동생의 신장 이식 수술 비용을 마련하기 위해 옛 상사의 친구 딸을 납치한다.",
+            "poster": "posters/poster28.jpg",
+            "score": 7.5,
+            "created_at": "2025-05-23T02:51:01.201444"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 29,
+        "fields": {
+            "title": "극한직업",
+            "genre": "comedy",
+            "director": "이병헌",
+            "actors": "류승룡, 이하늬, 진선규",
+            "runtime": 111,
+            "release_year": 2019,
+            "description": "경찰의 잠입 수사가 뜻밖의 맛집 성공으로 이어지면서 벌어지는 유쾌한 해프닝.",
+            "poster": "posters/poster29.jpg",
+            "score": 7.1,
+            "created_at": "2025-05-23T02:51:01.201447"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 30,
+        "fields": {
+            "title": "국제시장",
+            "genre": "drama",
+            "director": "윤제균",
+            "actors": "황정민, 김윤진, 오달수",
+            "runtime": 126,
+            "release_year": 2014,
+            "description": "한국전쟁 당시, 어린 소년이 가족을 책임지겠다는 다짐으로 평생을 헌신하며 살아가는 이야기.",
+            "poster": "posters/poster30.jpg",
+            "score": 7.8,
+            "created_at": "2025-05-23T02:51:01.201450"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 31,
+        "fields": {
+            "title": "사라진 밤",
+            "genre": "thriller",
+            "director": "이창희",
+            "actors": "현봉식, 공민정, 김상경",
+            "runtime": 101,
+            "release_year": 2018,
+            "description": "국립과학수사연구원에서 윤설희의 시신이 사라진다. 형사 우중식은 그녀의 실종 단서를 추적하고, 남편 박진한은 그녀가 살아있다고 주장한다.",
+            "poster": "posters/poster31.jpg",
+            "score": 6.6,
+            "created_at": "2025-05-23T02:51:43.540136"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 32,
+        "fields": {
+            "title": "엽기적인 그녀",
+            "genre": "romance",
+            "director": "곽재용",
+            "actors": "차태현, 전지현, 김인문",
+            "runtime": 123,
+            "release_year": 2001,
+            "description": "서울 지하철역에서 술 취한 귀여운 여자가 선로 가까이에 서 있는 것을 본 청년이 그녀를 구하고, 이후 그녀와 끊임없는 사건에 휘말리기 시작한다.",
+            "poster": "posters/poster32.jpg",
+            "score": 7.9,
+            "created_at": "2025-05-23T02:51:43.540136"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 33,
+        "fields": {
+            "title": "마약왕",
+            "genre": "crime",
+            "director": "우민호",
+            "actors": "송강호, 조정석, 배두나",
+            "runtime": 139,
+            "release_year": 2018,
+            "description": "1970년대 부산을 배경으로, 이두삼은 마약 밀매로 제국을 건설하고, 검사 김인구는 그를 잡기 위해 싸운다.",
+            "poster": "posters/poster33.jpg",
+            "score": 6.2,
+            "created_at": "2025-05-23T02:51:43.540136"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 34,
+        "fields": {
+            "title": "물괴",
+            "genre": "fantasy",
+            "director": "허종호",
+            "actors": "김명민, 김인권, 이혜리",
+            "runtime": 105,
+            "release_year": 2018,
+            "description": "조선의 충신 윤겸은 정종 왕을 위협하는 괴물과, 왕을 몰아내려는 세력에 맞서 싸운다.",
+            "poster": "posters/poster34.jpg",
+            "score": 6.1,
+            "created_at": "2025-05-23T02:51:43.540136"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 35,
+        "fields": {
+            "title": "협상",
+            "genre": "thriller",
+            "director": "이종석",
+            "actors": "손예진, 현빈, 장영남",
+            "runtime": 114,
+            "release_year": 2018,
+            "description": "유능한 위기 협상가는 냉혈한 인질범과 대면하게 되고, 21시간 동안 그의 차분한 태도 뒤에 숨겨진 진짜 목적을 밝혀내려 한다.",
+            "poster": "posters/poster35.jpg",
+            "score": 6.7,
+            "created_at": "2025-05-23T02:51:43.540136"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 36,
+        "fields": {
+            "title": "황해",
+            "genre": "thriller",
+            "director": "나홍진",
+            "actors": "하정우, 김윤석, 조성하",
+            "runtime": 157,
+            "release_year": 2010,
+            "description": "교수를 암살하려던 계획이 실패로 끝나자 연쇄적인 폭력 사건이 발생하고, 택시기사는 목숨을 건 도주를 시작한다.",
+            "poster": "posters/poster36.jpg",
+            "score": 7.3,
+            "created_at": "2025-05-23T02:52:24.423103"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 37,
+        "fields": {
+            "title": "밀정",
+            "genre": "action",
+            "director": "김지운",
+            "actors": "이병헌, 공유, 송강호",
+            "runtime": 140,
+            "release_year": 2016,
+            "description": "일제강점기, 한국 독립운동가들이 일본군이 점령한 시설을 파괴하기 위해 폭탄을 밀수하는 과정을 그린 첩보 액션 스릴러.",
+            "poster": "posters/poster37.jpg",
+            "score": 7.1,
+            "created_at": "2025-05-23T02:52:24.423113"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 38,
+        "fields": {
+            "title": "도가니",
+            "genre": "drama",
+            "director": "황동혁",
+            "actors": "공유, 정유미, 김현수",
+            "runtime": 125,
+            "release_year": 2011,
+            "description": "실화를 바탕으로, 청각장애 특수학교에서 교직원들이 수년간 학생들을 성폭행한 사건을 다룬 영화.",
+            "poster": "posters/poster38.jpg",
+            "score": 8.0,
+            "created_at": "2025-05-23T02:52:24.423118"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 39,
+        "fields": {
+            "title": "좋은 놈, 나쁜 놈, 이상한 놈",
+            "genre": "action",
+            "director": "김지운",
+            "actors": "송강호, 이병헌, 정우성",
+            "runtime": 139,
+            "release_year": 2008,
+            "description": "1940년대 만주를 배경으로, 보물을 찾기 위한 두 무법자와 현상금 사냥꾼의 삼자 대결과 이를 뒤쫓는 일본군과 중국 산적들의 추격을 그린 영화.",
+            "poster": "posters/poster39.jpg",
+            "score": 7.2,
+            "created_at": "2025-05-23T02:52:24.423123"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 40,
+        "fields": {
+            "title": "미쓰백",
+            "genre": "drama",
+            "director": "이지원",
+            "actors": "한지민, 전석호, 이희준",
+            "runtime": 98,
+            "release_year": 2018,
+            "description": "전과를 가진 여성이 학대를 받는 소녀를 만나며 변화하고, 그녀를 구하기 위해 고군분투한다. 여성을 사랑하는 남자는 그녀를 보호하려 한다.",
+            "poster": "posters/poster40.jpg",
+            "score": 6.8,
+            "created_at": "2025-05-23T02:52:24.423128"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 41,
+        "fields": {
+            "title": "빈집",
+            "genre": "drama",
+            "director": "김기덕",
+            "actors": "이승연, 재희, 권혁호",
+            "runtime": 88,
+            "release_year": 2004,
+            "description": "떠돌이 청년이 빈집에 몰래 들어가며, 휴가 중인 사람들의 삶을 며칠간 살아본다.",
+            "poster": "posters/poster41.jpg",
+            "score": 7.9,
+            "created_at": "2025-05-23T02:53:00.774198"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 42,
+        "fields": {
+            "title": "달콤한 인생",
+            "genre": "crime",
+            "director": "김지운",
+            "actors": "이병헌, 신민아, 김영철",
+            "runtime": 120,
+            "release_year": 2005,
+            "description": "상사의 명령을 어긴 조직 고위 간부가 예상치 못한 사건에 휘말리게 된다.",
+            "poster": "posters/poster42.jpg",
+            "score": 7.5,
+            "created_at": "2025-05-23T02:53:00.774198"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 43,
+        "fields": {
+            "title": "강철비",
+            "genre": "action",
+            "director": "양우석",
+            "actors": "정우성, 곽도원, 김갑수",
+            "runtime": 139,
+            "release_year": 2017,
+            "description": "북한에서 쿠데타가 발생하면서 요원은 '넘버원'을 데리고 남한으로 망명한다. 북측의 요원들이 추격하는 가운데, 그는 남한과 협력해 핵전쟁을 막으려 한다.",
+            "poster": "posters/poster43.jpg",
+            "score": 7.1,
+            "created_at": "2025-05-23T02:53:00.774198"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 44,
+        "fields": {
+            "title": "신세계",
+            "genre": "crime",
+            "director": "박훈정",
+            "actors": "이정재, 최민식, 황정민",
+            "runtime": 135,
+            "release_year": 2013,
+            "description": "잠입 수사를 하던 경찰이 조폭과 경찰 사이에서 자신의 정체성과 충성 사이에서 갈등한다.",
+            "poster": "posters/poster44.jpg",
+            "score": 7.5,
+            "created_at": "2025-05-23T02:53:00.774198"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 45,
+        "fields": {
+            "title": "성난황소",
+            "genre": "thriller",
+            "director": "김민호",
+            "actors": "마동석, 송지효, 김성오",
+            "runtime": 116,
+            "release_year": 2018,
+            "description": "행복한 결혼생활을 하던 동철은 어느 날 집에 돌아와 집이 엉망이 된 것을 발견하고, 아내가 실종되었음을 알게 된다.",
+            "poster": "posters/poster45.jpg",
+            "score": 6.6,
+            "created_at": "2025-05-23T02:53:00.774198"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 46,
+        "fields": {
+            "title": "염력",
+            "genre": "fantasy",
+            "director": "연상호",
+            "actors": "류승룡, 심은경, 박정민",
+            "runtime": 101,
+            "release_year": 2018,
+            "description": "산속 약수터의 물을 마신 은행 경비원이 염력이라는 초능력을 얻게 된다. 그는 이 힘으로 건설 회사의 위협에 맞서 소원했던 딸을 구하려 한다.",
+            "score": 5.9,
+            "poster": "posters/poster46.jpg",
+            "created_at": "2025-05-23T02:54:37.153565"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 47,
+        "fields": {
+            "title": "판도라",
+            "genre": "drama",
+            "director": "박정우",
+            "actors": "김남길, 김주현, 정진영",
+            "runtime": 136,
+            "release_year": 2016,
+            "description": "지진으로 인해 원자력 발전소가 폭발하면서 재난이 시작되고, 이를 막기 위해 직원들이 사투를 벌인다.",
+            "score": 6.7,
+            "poster": "posters/poster47.jpg",
+            "created_at": "2025-05-23T02:54:37.153565"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 48,
+        "fields": {
+            "title": "오직 그대만",
+            "genre": "romance",
+            "director": "송일곤",
+            "actors": "소지섭, 한효주, 강신일",
+            "runtime": 108,
+            "release_year": 2011,
+            "description": "과거를 가진 전직 복서 철민은 주차요원으로 일하며 살아간다. 어느 날, 시각장애인 정화를 만나게 되고, 두 사람은 사랑에 빠진다.",
+            "score": 7.7,
+            "poster": "posters/poster48.jpg",
+            "created_at": "2025-05-23T02:54:37.153565"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 49,
+        "fields": {
+            "title": "그후",
+            "genre": "drama",
+            "director": "홍상수",
+            "actors": "김민희, 기주봉, 안재홍",
+            "runtime": 66,
+            "release_year": 2018,
+            "description": "작은 카페에서, 김민희가 연기하는 인물은 손님들과 직접적으로 대화하지 않고 그저 관찰자로 머문다.",
+            "score": 6.8,
+            "poster": "posters/poster49.jpg",
+            "created_at": "2025-05-23T02:54:37.153565"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 50,
+        "fields": {
+            "title": "1987",
+            "genre": "drama",
+            "director": "장준환",
+            "actors": "김태리, 강동원, 하정우",
+            "runtime": 129,
+            "release_year": 2017,
+            "description": "1987년, 군부 정권 아래에서 대학생의 고문치사 사건이 일어나고, 이를 계기로 시민들이 진실을 밝히기 위해 투쟁에 나선다.",
+            "score": 7.7,
+            "poster": "posters/poster50.jpg",
+            "created_at": "2025-05-23T02:54:37.153565"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 51,
+        "fields": {
+        "title": "하녀",
+        "genre": "drama",
+        "director": "임상수",
+        "actors": "전도연, 이정재, 윤여정",
+        "runtime": 107,
+        "release_year": 2010,
+        "description": "한 남자의 가정부와의 불륜이 예기치 못한 어두운 결과로 이어진다.",
+        "score": 6.4,
+        "poster": "posters/poster51.jpg",
+        "created_at": "2025-05-23T13:00:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 52,
+        "fields": {
+        "title": "택시운전사",
+        "genre": "drama",
+        "director": "장훈",
+        "actors": "송강호, 토마스 크레취만, 유해진",
+        "runtime": 137,
+        "release_year": 2017,
+        "description": "1980년 광주. 독일 기자를 태우고 광주로 향한 택시운전사는 참혹한 현실을 목격하고 인간으로서의 양심에 눈을 뜬다.",
+        "score": 7.9,
+        "poster": "posters/poster52.jpg",
+        "created_at": "2025-05-23T13:00:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 53,
+        "fields": {
+        "title": "상류사회",
+        "genre": "drama",
+        "director": "변혁",
+        "actors": "박해일, 수애, 김규선",
+        "runtime": 120,
+        "release_year": 2018,
+        "description": "재벌이 후원하는 미술관의 부관장과 정치 진출을 노리는 경제학 교수 부부가 상류층에 들기 위해 수단을 가리지 않는다.",
+        "score": 5.6,
+        "poster": "posters/poster53.jpg",
+        "created_at": "2025-05-23T13:00:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 54,
+        "fields": {
+        "title": "인천상륙작전",
+        "genre": "action",
+        "director": "이재한",
+        "actors": "리암 니슨, 이정재, 이범수",
+        "runtime": 111,
+        "release_year": 2016,
+        "description": "유엔군의 인천 상륙작전을 앞두고, 첩보 요원들이 북한군의 정보를 수집하기 위해 위험한 임무에 투입된다.",
+        "score": 6.2,
+        "poster": "posters/poster54.jpg",
+        "created_at": "2025-05-23T13:00:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 55,
+        "fields": {
+        "title": "신과함께: 죄와 벌",
+        "genre": "fantasy",
+        "director": "김용화",
+        "actors": "하정우, 차태현, 주지훈",
+        "runtime": 139,
+        "release_year": 2017,
+        "description": "영웅적으로 사망한 소방관이 저승 삼차사와 함께 49일 동안 7개의 지옥에서 재판을 받으며 생전의 업보를 마주한다.",
+        "score": 7.2,
+        "poster": "posters/poster55.jpg",
+        "created_at": "2025-05-23T13:00:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 56,
+        "fields": {
+        "title": "소공녀",
+        "genre": "drama",
+        "director": "전고운",
+        "actors": "이솜, 안재홍, 최재현",
+        "runtime": 106,
+        "release_year": 2017,
+        "description": "위스키와 담배, 도시에서 그녀가 지킬 수 있는 마지막 존엄이었다.",
+        "score": 7.4,
+        "poster": "posters/poster56.jpg",
+        "created_at": "2025-05-23T13:00:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 57,
+        "fields": {
+        "title": "곤지암",
+        "genre": "horror",
+        "director": "정범식",
+        "actors": "오아연, 위하준, 유제윤",
+        "runtime": 95,
+        "release_year": 2018,
+        "description": "공포 웹 예능 촬영을 위해 폐병원 곤지암에 들어간 제작진은 상상 이상의 악몽을 마주하게 된다.",
+        "score": 6.5,
+        "poster": "posters/poster57.jpg",
+        "created_at": "2025-05-23T13:00:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 58,
+        "fields": {
+        "title": "완벽한 타인",
+        "genre": "drama",
+        "director": "이재규",
+        "actors": "유해진, 조진웅, 이서진",
+        "runtime": 115,
+        "release_year": 2018,
+        "description": "오랜만에 모인 친구들 사이에서 핸드폰 공개 게임이 시작되고, 각자의 비밀이 하나씩 밝혀진다.",
+        "score": 6.9,
+        "poster": "posters/poster58.jpg",
+        "created_at": "2025-05-23T13:00:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 59,
+        "fields": {
+        "title": "공동경비구역 JSA",
+        "genre": "thriller",
+        "director": "박찬욱",
+        "actors": "이영애, 이병헌, 송강호",
+        "runtime": 110,
+        "release_year": 2000,
+        "description": "DMZ에서 벌어진 총격 사건. 두 명의 북한 병사가 사망하고, 진실을 밝히기 위해 중립국 수사단이 투입된다.",
+        "score": 7.7,
+        "poster": "posters/poster59.jpg",
+        "created_at": "2025-05-23T13:00:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 60,
+        "fields": {
+        "title": "살인자의 기억법",
+        "genre": "thriller",
+        "director": "원신연",
+        "actors": "설경구, 김남길, 김설현",
+        "runtime": 118,
+        "release_year": 2017,
+        "description": "알츠하이머에 걸린 전직 연쇄살인범이 딸을 지키기 위해 다시 칼을 든다.",
+        "score": 7.2,
+        "poster": "posters/poster60.jpg",
+        "created_at": "2025-05-23T13:00:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 61,
+        "fields": {
+        "title": "나쁜 남자",
+        "genre": "drama",
+        "director": "김기덕",
+        "actors": "조재현, 서원, 김윤태",
+        "runtime": 100,
+        "release_year": 2001,
+        "description": "감정을 느끼지 못하는 건달이 자신을 거부한 여대생을 매춘에 빠뜨리며 지켜보다가 점차 그녀에게 끌리게 된다.",
+        "score": 6.6,
+        "poster": "posters/poster61.jpg",
+        "created_at": "2025-05-23T13:30:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 62,
+        "fields": {
+        "title": "PMC: 더 벙커",
+        "genre": "action",
+        "director": "김병우",
+        "actors": "하정우, 이선균, 제니퍼 엘",
+        "runtime": 120,
+        "release_year": 2018,
+        "description": "2024년 미국 대선 당일, 용병 리더 하정우와 팀은 DMZ 지하 벙커에서 북한 고위급 장교를 납치하라는 임무를 수행하다 세계 대전 위기에 휘말린다.",
+        "score": 5.4,
+        "poster": "posters/poster62.jpg",
+        "created_at": "2025-05-23T13:30:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 63,
+        "fields": {
+        "title": "범죄도시",
+        "genre": "crime",
+        "director": "강윤성",
+        "actors": "마동석, 윤계상, 조재윤",
+        "runtime": 121,
+        "release_year": 2017,
+        "description": "실화를 바탕으로 한 범죄 액션 영화. 강력계 형사가 중국 조선족 조직 간의 세력 다툼 속에서 서울의 평화를 지키기 위해 싸운다.",
+        "score": 7.2,
+        "poster": "posters/poster63.jpg",
+        "created_at": "2025-05-23T13:30:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 64,
+        "fields": {
+        "title": "독전",
+        "genre": "crime",
+        "director": "이해영",
+        "actors": "조진웅, 차승원, 류준열",
+        "runtime": 123,
+        "release_year": 2018,
+        "description": "아시아 최대 마약 조직의 보스를 잡기 위해 형사와 조직원이 손을 잡고 펼치는 추격전.",
+        "score": 6.6,
+        "poster": "posters/poster64.jpg",
+        "created_at": "2025-05-23T13:30:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 65,
+        "fields": {
+        "title": "지금 만나러 갑니다",
+        "genre": "romance",
+        "director": "이장훈",
+        "actors": "소지섭, 손예진, 고창석",
+        "runtime": 132,
+        "release_year": 2018,
+        "description": "아내 수아를 잃고 아들과 단둘이 살던 우진. 수아는 죽기 전 '비 오는 날 1년 후 돌아오겠다'는 약속을 남기고, 약속대로 다시 나타나지만 기억을 잃은 상태다.",
+        "score": 7.7,
+        "poster": "posters/poster65.jpg",
+        "created_at": "2025-05-23T13:30:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 66,
+        "fields": {
+        "title": "해운대",
+        "genre": "drama",
+        "director": "윤제균",
+        "actors": "하지원, 설경구, 박중훈, 엄정화",
+        "runtime": 120,
+        "release_year": 2009,
+        "description": "부산 해운대에서 평화롭게 살던 연희와 만식. 어느 날 도시를 덮칠 쓰나미가 예고되고, 이들은 10분 안에 도망쳐야 한다는 사실을 깨닫는다.",
+        "score": 5.5,
+        "poster": "posters/poster66.jpg",
+        "created_at": "2025-05-23T13:45:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 67,
+        "fields": {
+        "title": "도어락",
+        "genre": "thriller",
+        "director": "이권",
+        "actors": "공효진, 김예원, 김성오",
+        "runtime": 102,
+        "release_year": 2018,
+        "description": "원룸에서 혼자 사는 경민. 낯선 이의 흔적이 남은 채 벌어진 살인 사건으로 인해 일상이 위협받기 시작한다.",
+        "score": 6.4,
+        "poster": "posters/poster67.jpg",
+        "created_at": "2025-05-23T13:45:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 68,
+        "fields": {
+        "title": "리틀 포레스트",
+        "genre": "drama",
+        "director": "임순례",
+        "actors": "김태리, 류준열, 진기주",
+        "runtime": 103,
+        "release_year": 2018,
+        "description": "도시 생활에 지친 젊은 여성이 고향 시골로 돌아와 자연과 함께하며 마음의 위안을 얻는다.",
+        "score": 7.3,
+        "poster": "posters/poster68.jpg",
+        "created_at": "2025-05-23T13:45:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 69,
+        "fields": {
+        "title": "군함도",
+        "genre": "historical",
+        "director": "류승완",
+        "actors": "황정민, 소지섭, 송중기, 김수안",
+        "runtime": 132,
+        "release_year": 2017,
+        "description": "일제 강점기, 강제 징용된 400여 명의 조선인들이 군함도에서 탈출을 시도하는 극적인 이야기.",
+        "score": 7.1,
+        "poster": "posters/poster69.jpg",
+        "created_at": "2025-05-23T13:45:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 70,
+        "fields": {
+        "title": "7번방의 선물",
+        "genre": "drama",
+        "director": "이환경",
+        "actors": "류승룡, 갈소원, 오달수",
+        "runtime": 127,
+        "release_year": 2013,
+        "description": "지적 장애를 가진 아버지와 사랑스러운 딸의 감동적인 사랑 이야기.",
+        "score": 8.1,
+        "poster": "posters/poster70.jpg",
+        "created_at": "2025-05-23T13:45:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 71,
+        "fields": {
+        "title": "돈",
+        "genre": "drama",
+        "director": "박누리",
+        "actors": "류준열, 유지태, 조우진",
+        "runtime": 115,
+        "release_year": 2019,
+        "description": "부자가 되고 싶은 신입 증권 브로커가 주식 시장 사기에 휘말리며 위기에 빠진다.",
+        "score": 6.1,
+        "poster": "posters/poster71.jpg",
+        "created_at": "2025-05-23T13:55:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 72,
+        "fields": {
+        "title": "내가 살인범이다",
+        "genre": "thriller",
+        "director": "정병길",
+        "actors": "정재영, 박시후, 정해균",
+        "runtime": 119,
+        "release_year": 2012,
+        "description": "공소시효가 만료된 연쇄살인 사건의 범인이라고 주장하는 남자가 자서전을 출간하면서 벌어지는 이야기.",
+        "score": 7.0,
+        "poster": "posters/poster72.jpg",
+        "created_at": "2025-05-23T13:55:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 73,
+        "fields": {
+        "title": "내안의 그놈",
+        "genre": "comedy",
+        "director": "강효진",
+        "actors": "박성웅, 정진영, 라미란",
+        "runtime": 122,
+        "release_year": 2019,
+        "description": "힘없는 고등학생과 거대한 조직의 보스가 사고로 몸이 바뀌게 되며 벌어지는 코믹한 이야기.",
+        "score": 6.9,
+        "poster": "posters/poster73.jpg",
+        "created_at": "2025-05-23T13:55:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 74,
+        "fields": {
+        "title": "간신",
+        "genre": "historical",
+        "director": "민규동",
+        "actors": "주지훈, 김강우, 임지연",
+        "runtime": 133,
+        "release_year": 2015,
+        "description": "욕망에 사로잡힌 연산군과 그를 조종하는 간신, 그리고 복수를 품은 여인의 이야기.",
+        "score": 6.1,
+        "poster": "posters/poster74.jpg",
+        "created_at": "2025-05-23T13:55:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 75,
+        "fields": {
+        "title": "신과함께: 인과 연",
+        "genre": "fantasy",
+        "director": "김용화",
+        "actors": "하정우, 주지훈, 김향기",
+        "runtime": 142,
+        "release_year": 2018,
+        "description": "저승에서 재판을 받는 남자와 그의 변호를 맡은 수호신, 그리고 지상에서 또 다른 임무를 수행하는 수호신들의 이야기.",
+        "score": 7.1,
+        "poster": "posters/poster75.jpg",
+        "created_at": "2025-05-23T13:55:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 76,
+        "fields": {
+        "title": "태극기 휘날리며",
+        "genre": "drama",
+        "director": "강제규",
+        "actors": "장동건, 원빈, 이은주",
+        "runtime": 140,
+        "release_year": 2004,
+        "description": "형제가 한국전쟁에 함께 참전하게 되자, 형은 동생을 지키기 위해 가장 위험한 임무를 자처한다.",
+        "score": 8.0,
+        "poster": "posters/poster76.jpg",
+        "created_at": "2025-05-23T14:00:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 77,
+        "fields": {
+        "title": "벌새",
+        "genre": "drama",
+        "director": "김보라",
+        "actors": "박지후, 김새벽, 정인기",
+        "runtime": 138,
+        "release_year": 2018,
+        "description": "1994년 서울, 성수대교가 붕괴되던 해에, 14살 은희는 사랑을 찾아 도시를 헤매인다.",
+        "score": 7.4,
+        "poster": "posters/poster77.jpg",
+        "created_at": "2025-05-23T14:00:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 78,
+        "fields": {
+        "title": "뷰티 인사이드",
+        "genre": "fantasy",
+        "director": "백종열",
+        "actors": "한효주, 박서준, 우에노 주리",
+        "runtime": 127,
+        "release_year": 2015,
+        "description": "매일 아침마다 외모가 바뀌는 남자. 그는 가구 디자이너로 일하며 한 여인을 사랑하지만, 매일 바뀌는 외모로 인해 진심을 전하는 것이 쉽지 않다.",
+        "score": 7.3,
+        "poster": "posters/poster78.jpg",
+        "created_at": "2025-05-23T14:00:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 79,
+        "fields": {
+        "title": "암수살인",
+        "genre": "crime",
+        "director": "김태균",
+        "actors": "김윤석, 주지훈, 진선규",
+        "runtime": 110,
+        "release_year": 2018,
+        "description": "복역 중인 살인범이 자백한 추가 살인사건을 밝히려는 형사와의 치열한 심리전.",
+        "score": 6.7,
+        "poster": "posters/poster79.jpg",
+        "created_at": "2025-05-23T14:00:00"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 80,
+        "fields": {
+        "title": "밀양",
+        "genre": "drama",
+        "director": "이창동",
+        "actors": "전도연, 송강호, 이동용",
+        "runtime": 142,
+        "release_year": 2007,
+        "description": "죽은 남편의 고향인 밀양으로 이사 온 여인이 새로운 삶을 시작하려 하지만, 또 다른 비극이 그녀의 삶을 뒤흔든다.",
+        "score": 7.5,
+        "poster": "posters/poster80.jpg",
+        "created_at": "2025-05-23T14:00:00"
+        }
+    },
+      {
+    "model": "movies.movie",
+    "pk": 81,
+    "fields": {
+      "title": "광해, 왕이 된 남자",
+      "genre": "historical",
+      "director": "추창민",
+      "actors": "이병헌, 류승룡, 김인권",
+      "runtime": 131,
+      "score": 8.1,
+      "release_year": 2012,
+      "description": "조선 광해군 시대, 혼란한 궁중 권력 다툼 속에서 가짜 ‘대역’을 세워 왕을 보호하려는 이야기.",
+      "poster": "posters/poster81.jpg",
+      "created_at": "2025-05-26T00:00:00Z"
+    }
+  }
+]

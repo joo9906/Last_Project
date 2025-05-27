@@ -1,0 +1,167 @@
+[
+  {
+    "model": "movies.routeplace",
+    "pk": 1,
+    "fields": {
+      "route": 1,
+      "place": 2,
+      "order_index": 1,
+      "description": "상암동 거리는 영화 '버닝'에서 종수와 벤이 대화를 나누던 도심의 상징적인 거리입니다.",
+      "duration": 45
+    }
+  },
+  {
+    "model": "movies.routeplace",
+    "pk": 2,
+    "fields": {
+      "route": 1,
+      "place": 4,
+      "order_index": 2,
+      "description": "남산 타워 근처 골목은 영화 '올드보이'에서 오대수가 방황하던 인상적인 골목입니다.",
+      "duration": 45
+    }
+  },
+  {
+    "model": "movies.routeplace",
+    "pk": 3,
+    "fields": {
+      "route": 1,
+      "place": 6,
+      "order_index": 3,
+      "description": "북촌 한옥마을은 영화 '아가씨'에서 전통과 현대가 공존하는 배경으로 등장한 장소입니다.",
+      "duration": 45
+    }
+  },
+  {
+    "model": "movies.routeplace",
+    "pk": 4,
+    "fields": {
+      "route": 2,
+      "place": 1,
+      "order_index": 1,
+      "description": "헤이리 예술마을은 영화 '버닝'에서 해미의 집이 위치했던 예술적인 분위기의 마을입니다.",
+      "duration": 45
+    }
+  },
+  {
+    "model": "movies.routeplace",
+    "pk": 5,
+    "fields": {
+      "route": 2,
+      "place": 3,
+      "order_index": 2,
+      "description": "인천 차이나타운은 영화 '올드보이'에서 복수의 상징적 장면이 촬영된 이국적인 배경지입니다.",
+      "duration": 45
+    }
+  },
+  {
+    "model": "movies.routeplace",
+    "pk": 6,
+    "fields": {
+      "route": 2,
+      "place": 10,
+      "order_index": 3,
+      "description": "고양시 오픈세트장은 영화 '안시성'의 일부 전투 장면이 촬영된 촬영 전용 세트장입니다.",
+      "duration": 45
+    }
+  },
+  {
+    "model": "movies.routeplace",
+    "pk": 7,
+    "fields": {
+      "route": 3,
+      "place": 11,
+      "order_index": 1,
+      "description": "곡성군 가정리는 영화 '곡성'의 마을 대부분이 촬영된 실제 전통 마을입니다.",
+      "duration": 45
+    }
+  },
+  {
+    "model": "movies.routeplace",
+    "pk": 8,
+    "fields": {
+      "route": 3,
+      "place": 12,
+      "order_index": 2,
+      "description": "장성 필암서원은 영화 '곡성'의 퇴마 장면이 촬영된 고즈넉한 분위기의 유교 서원입니다.",
+      "duration": 45
+    }
+  },
+  {
+    "model": "movies.routeplace",
+    "pk": 9,
+    "fields": {
+      "route": 3,
+      "place": 9,
+      "order_index": 3,
+      "description": "문경새재 오픈세트장은 영화 '안시성'의 성벽 전투 장면이 펼쳐진 웅장한 역사 세트장입니다.",
+      "duration": 45
+    }
+  },
+  {
+    "model": "movies.routeplace",
+    "pk": 10,
+    "fields": {
+      "route": 4,
+      "place": 35,
+      "order_index": 1,
+      "description": "천지연폭포 인근은 영화 '리벤져'의 격투 장면이 펼쳐졌던 제주 자연 배경입니다.",
+      "duration": 45
+    }
+  },
+  {
+    "model": "movies.routeplace",
+    "pk": 11,
+    "fields": {
+      "route": 4,
+      "place": 36,
+      "order_index": 2,
+      "description": "함덕 해변 세트장은 영화 '리벤져'에서 감옥섬 세트가 조성된 해변 인근 장소입니다.",
+      "duration": 45
+    }
+  },
+    {
+    "model": "movies.tourroute",
+    "pk": 1,
+    "fields": {
+      "name": "서울 감성 영화 투어",
+      "description": "서울에서 촬영된 감성적인 한국 영화 명소들을 둘러보는 코스입니다.",
+      "created_at": "2025-05-25T04:23:10.335927",
+      "updated_at": "2025-05-25T04:23:10.335940",
+      "total_duration": 180
+    }
+  },
+  {
+    "model": "movies.tourroute",
+    "pk": 2,
+    "fields": {
+      "name": "경기/인천 명장면 투어",
+      "description": "경기와 인천 지역의 인상 깊은 영화 촬영지를 중심으로 한 투어입니다.",
+      "created_at": "2025-05-25T04:23:10.335944",
+      "updated_at": "2025-05-25T04:23:10.335946",
+      "total_duration": 210
+    }
+  },
+  {
+    "model": "movies.tourroute",
+    "pk": 3,
+    "fields": {
+      "name": "전라도 전통 배경 투어",
+      "description": "전라 지역의 전통과 자연 속에서 촬영된 영화 장소들을 탐방합니다.",
+      "created_at": "2025-05-25T04:23:10.335949",
+      "updated_at": "2025-05-25T04:23:10.335950",
+      "total_duration": 160
+    }
+  },
+  {
+    "model": "movies.tourroute",
+    "pk": 4,
+    "fields": {
+      "name": "제주 액션 로케이션 투어",
+      "description": "제주의 독특한 자연 속에서 촬영된 액션 영화의 명장면을 따라가보세요.",
+      "created_at": "2025-05-25T04:23:10.335952",
+      "updated_at": "2025-05-25T04:23:10.335954",
+      "total_duration": 200
+    }
+  }
+]
