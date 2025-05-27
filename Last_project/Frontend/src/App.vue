@@ -227,7 +227,7 @@
       <div class="max-w-7xl mx-auto relative flex flex-col items-center space-y-1">
         <div class="absolute right-0 top-1/2 -translate-y-1/2 flex space-x-2">
           <a
-            href="https://github.com/joo9906/SSAFY_Last_project/"
+            href="https://github.com/joo9906/Last_Project"
             target="_blank"
             rel="noopener noreferrer"
           >
