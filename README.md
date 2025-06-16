@@ -1,5 +1,5 @@
 # 실제 서비스 메인페이지
-![image.png](attachment:ae1f833a-5527-482e-ac06-5f37d6a5c09a:image.png)
+![Uploading image (1).png…]()
 
 
 # 1. 팀원 정보 및 역할
