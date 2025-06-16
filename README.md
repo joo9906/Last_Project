@@ -1,5 +1,5 @@
 # 실제 서비스 메인페이지
-[![Uploading image (1).png…]()](https://www.notion.so/K-1b976b6c20e8812b8667e3bc9b06aee2?source=copy_link#20176b6c20e8802e8329dee876d50868)
+mainpage.png
 
 
 # 1. 팀원 정보 및 역할
