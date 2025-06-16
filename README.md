@@ -1,5 +1,5 @@
 # 실제 서비스 메인페이지
-mainpage.png
+/mainpage.png
 
 
 # 1. 팀원 정보 및 역할
